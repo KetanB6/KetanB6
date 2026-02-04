@@ -44,15 +44,6 @@
 
 ---
 
-### **System Statistics (Runtime Environment)**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KetanB6&show_icons=true&theme=tokyonight&title_color=E22D30&icon_color=007396&text_color=ffffff&bg_color=0D1117" alt="Ketan's GitHub Stats" height="170" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KetanB6&layout=compact&theme=tokyonight&title_color=E22D30&text_color=ffffff&bg_color=0D1117" alt="Ketan's Top Languages" height="170" />
-</div>
-
----
-
 ### **Connect / External References**
 > **Note:** For the full source code of this developer, check out the pinned repositories below.
 
