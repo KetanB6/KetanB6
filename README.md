@@ -47,7 +47,7 @@
 ### **Connect / External References**
 > **Note:** For the full source code of this developer, check out the pinned repositories below.
 
-* **[Portfolio Website](https://portfolio-alpha-two-xpwkgmpok8.vercel.app/)**
+* **[Portfolio Website](https://ketanbidave.vercel.app/)**
 * **[LinkedIn Profile](https://www.linkedin.com/in/ketan-bidave-08397430a)**
 * **Email:** `ketanbidave.edu6@gmail.com`
 
